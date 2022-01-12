@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CR3 Renamer</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_paragraph">Hi there! 👋 This is a simple app to automatically rename your .cr3 extension files to .cr2. Why? Because Google Photos won\'t allow you to upload CR3 RAW photos on Android, but allows CR2 RAW photos. This tricks the app into allowing it to be uploaded and displays perfectly online afterwards.</string>
+</resources>
